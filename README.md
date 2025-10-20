@@ -1,7 +1,7 @@
 # TestFilesMake_for_ARM_aarch64
 This only contains the ARM executable - For all information go to the X86-64 verion [TestFilesMake](https://github.com/Jim-JMCD/TestFilesMake)
 
-This requires a Linux bash environment to run. Will run in Microsoft WSL2, TestFilesMake will not run in MSYS2, Gitbash and Cygwin environmants.
+This requires a Linux bash environment to run. Will run in Microsoft WSL2(Linux), TestFilesMake will not run in MSYS2, Gitbash and Cygwin environmants.
 
 __$ md5sum TestFilesMake__
 
